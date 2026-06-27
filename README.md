@@ -1,6 +1,4 @@
-# LLM_evaluation_for_PMOS
-Final project for course HIT Introduction to LLM
-
+# Final project for course HIT Introduction to LLM
 # Retrospective PMOS Clinical Priority Triage Using LLMs
 # PMOS Clinical Triage: Multi-Stage LLM Safety Architecture
 
