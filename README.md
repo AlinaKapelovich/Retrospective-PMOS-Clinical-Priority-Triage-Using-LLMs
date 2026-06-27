@@ -1,9 +1,6 @@
 # Retrospective PMOS Clinical Priority Triage Using LLMs
 **Final Project for: Introduction to Language Processing with LLMs**
 
-## 🖼️ Visual Abstract
-*(Note: Upload your visual architecture diagram directly to the main repository folder and name it `visual_abstract.png`)*
-![Visual Abstract](visual_abstract.png)
 
 ## 📖 Project Overview
 This project develops a **Clinical Decision Support System (CDSS)** powered by Large Language Models (LLMs) to triage patient portal messages related to **Polyendocrine Metabolic Ovarian Syndrome (PMOS)** (formerly known as PCOS). 
